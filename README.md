@@ -40,9 +40,6 @@
 
 ![Radar Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tushar051&theme=radical)
 
-> *(This spider/radar chart reflects your GitHub data like language usage and contribution activity in radar format.)*  
-> If you'd like a **custom radar chart based on your own skill ratings (e.g., Java: 9/10)** — I can design one manually or generate it as an image.
-
 ---
 
 ### ✍️ Random Dev Quote:
