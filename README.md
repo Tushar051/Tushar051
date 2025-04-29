@@ -12,38 +12,36 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharkedar_22) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kedar-5003a2298/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharkedar_22)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kedar-5003a2298/)
 
 ---
 
 # 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kafka](https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tushar051&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tushar051&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar051&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Skill Radar Chart:
 
----
+![Radar Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tushar051&theme=radical)
 
-# 📈 Contribution Graph:
-[![Tushar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar051&theme=react-dark&hide_border=true)](https://github.com/Tushar051)
+> *(This spider/radar chart reflects your GitHub data like language usage and contribution activity in radar format.)*  
+> If you'd like a **custom radar chart based on your own skill ratings (e.g., Java: 9/10)** — I can design one manually or generate it as an image.
 
 ---
 
@@ -52,12 +50,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Tushar051&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🕹️ Pac-Man GitHub Animation
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar051/Tushar051/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar051/Tushar051/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Tushar051/Tushar051/output/github-snake.svg" />
-</picture>
+```html
+<img src="https://github.com/Tushar051/Tushar051/blob/output/github-pacman.svg" alt="github-pacman" />
