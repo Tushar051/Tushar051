@@ -50,7 +50,8 @@
 
 ---
 
-# 🕹️ Pac-Man GitHub Animation
-
-```html
-<img src="https://github.com/Tushar051/Tushar051/blob/output/github-pacman.svg" alt="github-pacman" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar051/Tushar051/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar051/Tushar051/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tushar051/Tushar051/output/github-snake.svg" />
+</picture>
