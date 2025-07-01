@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year IT Student | ☕ Java Backend Developer in the making  
+🎓 Final-year IT Student | ☕ Java Backend Developer in the making  
 🚀 Passionate about building robust and scalable backend solutions  
 🔧 Core strengths: Java, Spring Boot, RESTful APIs, Database Design  
 📚 Currently deepening my knowledge in microservices architecture and cloud technologies  
