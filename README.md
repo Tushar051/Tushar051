@@ -1,14 +1,19 @@
 # 💫 About Me:
-☕ Java Engineer at Oracle 
-🚀 Building robust & scalable enterprise solutions
+☕ Java Engineer at Oracle 🚀
+Building robust & scalable enterprise solutions
+
 🔧 Core Skills: Java, Spring Boot, REST APIs, Oracle Database, PL/SQL
+
 🏦 Exploring enterprise & banking technologies with Oracle
+
 📚 Currently deepening my knowledge in Microservices, Cloud & Distributed Systems
+
 🎯 Focused on writing clean, efficient & production-ready code
 
 💡 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
 🤝 Always learning, building, and collaborating with the developer community
+
 
 
 ---
